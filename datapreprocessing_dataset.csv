@@ -1,0 +1,11 @@
+Developer ,Age,Salary,Married
+karachi ,42,78000,No
+lahore,32,48000,Yes
+karachi ,36,60000,No
+multan,41,68000,No
+lahore,42,,Yes
+multan,42,59000,Yes
+karachi ,,59000,No
+lahore,44,79000,Yes
+multan,52,99000,No
+lahore,32,69000,Yes
