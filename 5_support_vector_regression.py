@@ -43,6 +43,9 @@ for i in x:
   
   final_predicted_value = np.append(final_predicted_value, np.array(scaler_y.inverse_transform(predicted_value)))
   print(final_predicted_value)
+  
+
+# satish
 
 
 
