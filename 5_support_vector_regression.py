@@ -45,8 +45,6 @@ for i in x:
   print(final_predicted_value)
   
 
-# satish
-
-
+# trishan
 
 
